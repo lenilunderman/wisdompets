@@ -26,7 +26,7 @@ SECRET_KEY = '!gv2&+pr2rj##2p!#@#@g1s6oz4c0rqqu_mv^3-27vs1)8mo*='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-wisdompets.eba-mti52a3v.us-west-2.elasticbeanstalk.com']
 
 
 # Application definition
